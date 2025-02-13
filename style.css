@@ -1,8 +1,8 @@
-.frame-2,
-.frame-2 * {
+.frame-3,
+.frame-3 * {
   box-sizing: border-box;
 }
-.frame-2 {
+.frame-3 {
   background: #ffffff;
   height: 852px;
   position: relative;
@@ -17,14 +17,14 @@
   object-fit: cover;
   aspect-ratio: 393/852;
 }
-._2 {
-  width: 196px;
-  height: 245px;
+._6 {
+  width: 173px;
+  height: 217px;
   position: absolute;
-  left: 99px;
-  top: 159px;
+  left: 116px;
+  top: 162px;
   object-fit: cover;
-  aspect-ratio: 196/245;
+  aspect-ratio: 173/217;
 }
 .lo-itu-jodohnya-makanan-betawi-yang-mana {
   color: #413223;
@@ -39,7 +39,7 @@
   width: 293px;
   height: 145px;
 }
-.group-3 {
+.group-2 {
   position: absolute;
   inset: 0;
 }
