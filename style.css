@@ -1,0 +1,84 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 852px;
+  position: relative;
+  overflow: hidden;
+}
+.image-1 {
+  width: 393px;
+  height: 852px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 393/852;
+}
+.lo-itu-jodohnya-makanan-betawi-yang-mana {
+  color: #413223;
+  text-align: center;
+  font-family: "KoHo-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 50px;
+  top: 362px;
+  width: 293px;
+  height: 145px;
+}
+.vector-1 {
+  width: 9px;
+  height: 18px;
+  position: absolute;
+  left: 267.5px;
+  top: 522px;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #ed8002;
+  border-radius: 100px;
+  width: 237px;
+  height: 46px;
+  position: absolute;
+  left: 78px;
+  top: 507px;
+}
+.tes-yuk {
+  color: #f0ebd7;
+  text-align: center;
+  font-family: "KoHo-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 125.15%;
+  font-weight: 700;
+  position: absolute;
+  left: 112px;
+  top: 514px;
+  width: 169px;
+  height: 43px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #ed8002;
+  border-radius: 100px;
+  width: 237px;
+  height: 46px;
+  position: absolute;
+  left: 78px;
+  top: 507px;
+}
+._4 {
+  width: 174px;
+  height: 217px;
+  position: absolute;
+  left: 115px;
+  top: 174px;
+  object-fit: cover;
+  aspect-ratio: 174/217;
+}
